@@ -1,7 +1,8 @@
 package com.stepdefs;
 
 import javax.inject.Inject;
-import com.pages.LandingPage;
+
+import com.app.demo.pages.LandingPage;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.en.Then;
