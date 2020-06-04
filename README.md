@@ -11,10 +11,12 @@ Required component installation for project execution: <br>
 	- Chrome and Firefox browsers - for Selenium UI tests <br>
 	- Execution rights to files under the src/test/resources/drivers - for Selenium UI tests  <br>
 	- run solution <br>
+	
+We would also assume you have git-scm installed on your machine since this is a git hosted project.
 
 ### 1.1 Windows Setup <a name="1.1"></a>
 
-For the windows platform we have TWO WAYS of configuring the environment. We will first take the more simple approach, install windows apps and libraries via the Chocolatey package manager. 
+For the windows platform we have TWO WAYS of configuring the environment. We will first take the more simple approach, install windows apps and libraries via the Chocolatey package manager. The second approach implies installing all the described components (maven and java) manually and setting up the Environment Variables under Windows manually.
 
 #### I. SETUP WITH PACKAGE MANAGER - Chocolatey (quick and easy setup)
 ---
@@ -59,8 +61,6 @@ Now you just need to install maven and all is done:
 ```
 brew install maven
 ```
-
-
 
 ### 1.3 Linux Setup <a name="1.3"></a>
 
