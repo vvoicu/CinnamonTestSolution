@@ -1,4 +1,4 @@
-package com.stepdefs;
+package com.app.demo.stepdefs;
 
 import javax.inject.Inject;
 

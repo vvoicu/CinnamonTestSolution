@@ -1,4 +1,4 @@
-package com.guice;
+package com.app.guice;
 
 import com.google.inject.AbstractModule;
 
